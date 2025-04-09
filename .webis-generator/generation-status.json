@@ -1,8 +1,19 @@
 {
-  "projectName": "מכון-כושר-אלפא-8514",
-  "businessName": "מכון כושר אלפא",
-  "created": "2025-04-09T19:55:14.369Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T19:56:53.381Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 1,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Site Plan",
+      "type": "plan",
+      "status": "failed",
+      "description": "יצירת תוכנית האתר",
+      "error": "שגיאה בשירות Anthropic: No object generated: response did not match schema."
+    }
+  ],
+  "repoName": "webis-site-mkvn-kvshr-alpa-1744228514266"
 }
