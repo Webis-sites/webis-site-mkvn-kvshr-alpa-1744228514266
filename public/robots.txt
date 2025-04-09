@@ -1,0 +1,7 @@
+
+    # robots.txt for מכון כושר אלפא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://מכון-כושר-אלפא.com/sitemap.xml
