@@ -1,8 +1,36 @@
 {
   "projectName": "מכון-כושר-אלפא-8514",
   "businessName": "מכון כושר אלפא",
-  "created": "2025-04-09T19:55:14.369Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מכון כושר מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-09T19:55:36.674Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mkvn-kvshr-alpa-1744228514266",
+  "formData": {
+    "businessName": "מכון כושר אלפא",
+    "businessType": "מכון כושר",
+    "industry": "טכנולוגיה",
+    "businessSize": "large",
+    "description": "אנחנו מכון כושר מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#4ECDC4",
+    "secondaryColor": "#00ff88",
+    "typographyStyle": "classic",
+    "animationPreference": "extensive",
+    "headline": "מכון כושר מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": true,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "מכון כושר מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מכון כושר, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
